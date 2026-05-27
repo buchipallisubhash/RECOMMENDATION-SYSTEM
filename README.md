@@ -48,3 +48,6 @@ This project provides practical understanding of recommendation systems, collabo
 
 Overall, the Movie Recommendation System was successfully implemented using Collaborative Filtering and Cosine Similarity techniques. The system effectively recommends similar movies based on user rating patterns and demonstrates the practical application of Machine Learning in recommendation engines.
 
+<img width="1520" height="685" alt="Image" src="https://github.com/user-attachments/assets/c1768492-7b59-48e1-be20-4c229ec465b6" />
+
+<img width="1565" height="671" alt="Image" src="https://github.com/user-attachments/assets/556e5cd0-e8f7-4c0f-9c13-9b01ed32118e" />
