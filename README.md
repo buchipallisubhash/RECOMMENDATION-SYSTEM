@@ -51,5 +51,7 @@ Overall, the Movie Recommendation System was successfully implemented using Coll
 # Here Entering a movie name
 
 <img width="1520" height="685" alt="Image" src="https://github.com/user-attachments/assets/c1768492-7b59-48e1-be20-4c229ec465b6" />
+
 # Here Entering another movie name
+
 <img width="1565" height="671" alt="Image" src="https://github.com/user-attachments/assets/556e5cd0-e8f7-4c0f-9c13-9b01ed32118e" />
